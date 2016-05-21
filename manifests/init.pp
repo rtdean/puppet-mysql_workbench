@@ -6,6 +6,6 @@
 class mysql_workbench {
   package { 'MysqlWorkbench':
     provider => 'appdmg',
-    source   => 'http://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-gpl-5.2.47-osx-i686.dmg';
+    source   => 'http://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-6.0.9-osx-i686.dmg',
   }
 }

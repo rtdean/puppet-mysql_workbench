@@ -10,5 +10,6 @@ include mysql_workbench
 
 None.
 
-## Latest Version
-1.0.0
+## Tag to Version Mapping
+1.1.0 -> MySQL Workbench 6.0.9
+1.0.0 -> MySQL Workbench 5.2.47
