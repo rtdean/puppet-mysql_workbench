@@ -11,5 +11,6 @@ include mysql_workbench
 None.
 
 ## Tag to Version Mapping
+1.2.0 -> MySQL Workbench 6.1.7
 1.1.0 -> MySQL Workbench 6.0.9
 1.0.0 -> MySQL Workbench 5.2.47
